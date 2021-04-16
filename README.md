@@ -1,2 +1,2 @@
 # choctaw-flashcards
-Opensource Flashcard Project for the Choctaw Language (Not Official Choctaw Nation project)
+Opensource Flashcard Project for the Choctaw Language (Not an Official Choctaw Nation project)
